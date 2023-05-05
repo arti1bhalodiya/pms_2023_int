@@ -1,0 +1,1478 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "project.models",
+        "description": "project.models",
+        "isExtraImport": true,
+        "detail": "project.models",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pms.pms.asgi",
+        "description": "pms.pms.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "pms.pms.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSTATIC_DIR = os.path.join(BASE_DIR,'static')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-w@hkpz8tv+i20sh9+!bn4#rm^^l=#!d1ixej-i2yjsi#l4u(pu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_DIR",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "STATIC_DIR = os.path.join(BASE_DIR,'static')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-w@hkpz8tv+i20sh9+!bn4#rm^^l=#!d1ixej-i2yjsi#l4u(pu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-w@hkpz8tv+i20sh9+!bn4#rm^^l=#!d1ixej-i2yjsi#l4u(pu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'user',\n    'project',\n    # 'crispy_forms',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pms.urls'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pms.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pms.wsgi.application'\nAUTH_USER_MODEL = 'user.User'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': 'pms_2023_intern',\n        'USER':'postgres',\n        'PASSWORD':'postgres',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'user.User'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': 'pms_2023_intern',\n        'USER':'postgres',\n        'PASSWORD':'postgres',\n        'HOST':'localhost',",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': 'pms_2023_intern',\n        'USER':'postgres',\n        'PASSWORD':'postgres',\n        'HOST':'localhost',\n        'PORT':'5432',\n    }\n}",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHENTICATION_BACKENDS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "AUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n] \n# Internationalization\n# https://docs.djangoproject.com/en/4.1/topics/i18n/\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,\n]",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,\n]\nMEDIA_URL = 'media/'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,\n]\nMEDIA_URL = 'media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,\n]\nMEDIA_URL = 'media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n#login-----------------------------------------\nLOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "STATIC_ROOT = '/static'\nSTATICFILES_DIRS = [\n    STATIC_DIR,\n]\nMEDIA_URL = 'media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n#login-----------------------------------------\nLOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    STATIC_DIR,\n]\nMEDIA_URL = 'media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n#login-----------------------------------------\nLOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "MEDIA_URL = 'media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n#login-----------------------------------------\nLOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'media')\n#login-----------------------------------------\nLOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "LOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'dashboard'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587 ",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap5'\n#Email settings\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_PORT = 587 \nEMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_HOST_USER = '190320107502.ce.arti.bhalodiya@gmail.com'\nEMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "pms.pms.settings",
+        "description": "pms.pms.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'cfxe wdbq frtq hghi'",
+        "detail": "pms.pms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pms.pms.urls",
+        "description": "pms.pms.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('user/', include('user.urls')),\n    path('project/',include('project.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "pms.pms.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pms.pms.wsgi",
+        "description": "pms.pms.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pms.pms.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pms.project.migrations.0001_initial",
+        "description": "pms.project.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Project',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=30)),",
+        "detail": "pms.project.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pms.project.migrations.0002_initial",
+        "description": "pms.project.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('project', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='usertask',\n            name='user',",
+        "detail": "pms.project.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pms.project.migrations.0003_alter_projectteam_project",
+        "description": "pms.project.migrations.0003_alter_projectteam_project",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('project', '0002_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='projectteam',\n            name='project',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='project.project'),\n        ),",
+        "detail": "pms.project.migrations.0003_alter_projectteam_project",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pms.project.migrations.0004_alter_task_status",
+        "description": "pms.project.migrations.0004_alter_task_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('project', '0003_alter_projectteam_project'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='task',\n            name='status',\n            field=models.CharField(choices=[('Completed', 'Completed'), ('inProgress', 'inProgress'), ('Pending', 'Pending')], max_length=20),\n        ),",
+        "detail": "pms.project.migrations.0004_alter_task_status",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectConfig",
+        "kind": 6,
+        "importPath": "pms.project.apps",
+        "description": "pms.project.apps",
+        "peekOfCode": "class ProjectConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'project'",
+        "detail": "pms.project.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectCreationForm",
+        "kind": 6,
+        "importPath": "pms.project.forms",
+        "description": "pms.project.forms",
+        "peekOfCode": "class ProjectCreationForm(forms.ModelForm):\n    class Meta:\n        model =Project\n        fields ='__all__'\nclass ProjectTeamCreationForm(forms.ModelForm):\n    user = forms.ModelChoiceField(queryset=User.objects.filter(is_developer=True))\n    class Meta:\n        model =ProjectTeam\n        fields ='__all__'\nclass CreateProjectModuleForm(forms.ModelForm):",
+        "detail": "pms.project.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTeamCreationForm",
+        "kind": 6,
+        "importPath": "pms.project.forms",
+        "description": "pms.project.forms",
+        "peekOfCode": "class ProjectTeamCreationForm(forms.ModelForm):\n    user = forms.ModelChoiceField(queryset=User.objects.filter(is_developer=True))\n    class Meta:\n        model =ProjectTeam\n        fields ='__all__'\nclass CreateProjectModuleForm(forms.ModelForm):\n    class Meta:\n        model = ProjectModule\n        fields = '__all__'        \nclass CreateProjectTaskForm(forms.ModelForm):",
+        "detail": "pms.project.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProjectModuleForm",
+        "kind": 6,
+        "importPath": "pms.project.forms",
+        "description": "pms.project.forms",
+        "peekOfCode": "class CreateProjectModuleForm(forms.ModelForm):\n    class Meta:\n        model = ProjectModule\n        fields = '__all__'        \nclass CreateProjectTaskForm(forms.ModelForm):\n    class Meta:\n        model = Task\n        fields = '__all__'\nclass AssignProjectTaskForm(forms.ModelForm):\n    class Meta:",
+        "detail": "pms.project.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProjectTaskForm",
+        "kind": 6,
+        "importPath": "pms.project.forms",
+        "description": "pms.project.forms",
+        "peekOfCode": "class CreateProjectTaskForm(forms.ModelForm):\n    class Meta:\n        model = Task\n        fields = '__all__'\nclass AssignProjectTaskForm(forms.ModelForm):\n    class Meta:\n        model = UserTask\n        fields = '__all__'",
+        "detail": "pms.project.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AssignProjectTaskForm",
+        "kind": 6,
+        "importPath": "pms.project.forms",
+        "description": "pms.project.forms",
+        "peekOfCode": "class AssignProjectTaskForm(forms.ModelForm):\n    class Meta:\n        model = UserTask\n        fields = '__all__'",
+        "detail": "pms.project.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class Project(models.Model):\n    title = models.CharField(max_length=30,null=False)\n    desc = models.CharField(max_length=500)\n    tech = models.CharField(max_length=100)\n    estimatedHrs = models.IntegerField()\n    startdate = models.DateTimeField()\n    completitiondate = models.DateTimeField()\n    class Meta:\n        db_table = 'project'\n    def _str_(self):",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTeam",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class ProjectTeam(models.Model):\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    user = models.ForeignKey(User,on_delete=models.CASCADE,null=True)\n    class Meta:\n        db_table = 'team'\nclass Status(models.Model):\n    name = models.CharField(max_length=20,null=False,unique=True)\n    class Meta:\n        db_table = 'status'\n    def _str_(self):",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class Status(models.Model):\n    name = models.CharField(max_length=20,null=False,unique=True)\n    class Meta:\n        db_table = 'status'\n    def _str_(self):\n        return self.name\nclass ProjectModule(models.Model):\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    name = models.CharField(max_length=30,null=False)\n    desc = models.CharField(max_length=30)",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectModule",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class ProjectModule(models.Model):\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    name = models.CharField(max_length=30,null=False)\n    desc = models.CharField(max_length=30)\n    estimatedHrs = models.IntegerField()\n    class Meta:\n        db_table = 'module'\n    def _str_(self):\n        return self.name\nprioritychoices = (('high', 'high'), ('low', 'low'),('medium', 'medium'))   ",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class Task(models.Model):\n    module = models.ForeignKey(ProjectModule,on_delete=models.CASCADE)\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    status = models.CharField(choices=statuschoices,max_length=20)\n    title = models.CharField(max_length=20)\n    priority = models.CharField(choices=prioritychoices,max_length=20)\n    desc = models.CharField(max_length=500,null=False)\n    class Meta:\n        db_table = 'task'\n    def _str_(self):",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserTask",
+        "kind": 6,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "class UserTask(models.Model):\n    user=models.ForeignKey(User, on_delete=models.CASCADE,null=True)\n    taskid = models.ForeignKey(Task,on_delete=models.CASCADE)\n    class Meta:\n       db_table = 'user_task'",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "prioritychoices",
+        "kind": 5,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "prioritychoices = (('high', 'high'), ('low', 'low'),('medium', 'medium'))   \nstatuschoices = (('Completed', 'Completed'), ('inProgress', 'inProgress'),('Pending', 'Pending')) \nclass Task(models.Model):\n    module = models.ForeignKey(ProjectModule,on_delete=models.CASCADE)\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    status = models.CharField(choices=statuschoices,max_length=20)\n    title = models.CharField(max_length=20)\n    priority = models.CharField(choices=prioritychoices,max_length=20)\n    desc = models.CharField(max_length=500,null=False)\n    class Meta:",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "statuschoices",
+        "kind": 5,
+        "importPath": "pms.project.models",
+        "description": "pms.project.models",
+        "peekOfCode": "statuschoices = (('Completed', 'Completed'), ('inProgress', 'inProgress'),('Pending', 'Pending')) \nclass Task(models.Model):\n    module = models.ForeignKey(ProjectModule,on_delete=models.CASCADE)\n    project = models.ForeignKey(Project,on_delete=models.CASCADE)\n    status = models.CharField(choices=statuschoices,max_length=20)\n    title = models.CharField(max_length=20)\n    priority = models.CharField(choices=prioritychoices,max_length=20)\n    desc = models.CharField(max_length=500,null=False)\n    class Meta:\n        db_table = 'task'",
+        "detail": "pms.project.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pms.project.urls",
+        "description": "pms.project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('create_project/',ProjectCreationView.as_view(),name='create_project'),\n    path('list_project/',ProjectListView.as_view(),name='project_list'),\n    path('delete_project/<int:pk>',ProjectDeleteView.as_view(),name='delete_project'),\n    path('update_project/<int:pk>',ProjectUpdateView.as_view(),name='update_project'),\n    path('detail_project/<int:pk>',ProjectDetailView.as_view(),name='detail_project'),\n    path('create_project_team/',Create_Project_team.as_view(),name='create_project_team'),\n    path('list_project_team/',ProjectTeamListView.as_view(),name='project_team_list'),\n    path('list_project_team1/<int:pk>',ProjectTeamByProject.as_view(),name='project_team_list1'),\n    path('create_project_module/',CreateProjectModule.as_view(),name='create_project_module'),",
+        "detail": "pms.project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectCreationView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectCreationView(CreateView):\n    form_class =ProjectCreationForm\n    model = Project\n    template_name = 'project/project_create.html'\n    success_url = '/project/list_project/'\nclass ProjectListView(ListView):\n    model = Project\n    template_name = 'project/project_list.html'\n    context_object_name = 'project_list'\n    def get_queryset(self):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectListView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectListView(ListView):\n    model = Project\n    template_name = 'project/project_list.html'\n    context_object_name = 'project_list'\n    def get_queryset(self):\n        return super().get_queryset()   \n    # def get(self, request):\n    #     projects = Project.objects.all()\n    #     context = {'projects': projects}\n    #     return render(request, self.template_name, context) ",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectUpdateView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectUpdateView(UpdateView):\n    model = Project\n    form_class = ProjectCreationForm\n    template_name = 'project/project_create.html'\n    success_url = '/project/list_project/'\nclass ProjectDetailView(DetailView):\n    model = Project\n    template_name = 'project/project_detail.html'\n    context_object_name = 'project_detail'\n    labels=[]",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectDetailView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectDetailView(DetailView):\n    model = Project\n    template_name = 'project/project_detail.html'\n    context_object_name = 'project_detail'\n    labels=[]\n    data =[]\n    project = ProjectModule.objects.all().values_list('name',flat=True)\n    time = ProjectModule.objects.all().values_list('estimatedHrs',flat=True)\n    for i in project:\n        labels.append(i)",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectDeleteView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectDeleteView(DeleteView):\n    model = Project\n    def get(self, request, *args, **kwargs):\n        return self.delete(request, *args, **kwargs)\n    success_url = '/project/list_project/'    \nclass Create_Project_team(CreateView):\n    form_class =ProjectTeamCreationForm\n    template_name = 'project/project_team_create.html'\n    success_url = '/project/list_project/'\nclass ProjectTeamListView(ListView):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "Create_Project_team",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class Create_Project_team(CreateView):\n    form_class =ProjectTeamCreationForm\n    template_name = 'project/project_team_create.html'\n    success_url = '/project/list_project/'\nclass ProjectTeamListView(ListView):\n    model = ProjectTeam\n    template_name = 'project/project_team_list.html'\n    context_object_name = 'project_team_list'\nclass ProjectTeamByProject(ListView):\n    model = ProjectTeam",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTeamListView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectTeamListView(ListView):\n    model = ProjectTeam\n    template_name = 'project/project_team_list.html'\n    context_object_name = 'project_team_list'\nclass ProjectTeamByProject(ListView):\n    model = ProjectTeam\n    template_name = 'project/project_team_list.html'\n    context_object_name = 'project_team_list'\n    def get_queryset(self):\n        # return super().get_queryset().filter(Project_id=self.kwargs['pk']) ",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTeamByProject",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectTeamByProject(ListView):\n    model = ProjectTeam\n    template_name = 'project/project_team_list.html'\n    context_object_name = 'project_team_list'\n    def get_queryset(self):\n        # return super().get_queryset().filter(Project_id=self.kwargs['pk']) \n        return ProjectTeam.objects.filter(project=self.kwargs['pk'])\nclass CreateProjectModule(CreateView):\n    model = ProjectModule\n    form_class = CreateProjectModuleForm",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProjectModule",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class CreateProjectModule(CreateView):\n    model = ProjectModule\n    form_class = CreateProjectModuleForm\n    template_name = 'project/project_module_create.html'\n    success_url = '/project/list_project_module/'\nclass ProjectModuleListByProject(ListView):\n    model = ProjectModule\n    template_name = 'project/project_module_list.html'\n    context_object_name = 'project_module_list'\n    # def get_queryset(self):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectModuleListByProject",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectModuleListByProject(ListView):\n    model = ProjectModule\n    template_name = 'project/project_module_list.html'\n    context_object_name = 'project_module_list'\n    # def get_queryset(self):\n    #     return super().get_queryset().filter(project=self.kwargs['pk']) \nclass ProjectTeamDeleteView(DeleteView):\n    model = ProjectTeam\n    template_name = 'project/project_detail.html'\n    success_url = '/project/detail_project/'",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTeamDeleteView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectTeamDeleteView(DeleteView):\n    model = ProjectTeam\n    template_name = 'project/project_detail.html'\n    success_url = '/project/detail_project/'\n    # def delete(self, request, *args, **kwargs):\n    #     self.object = self.get_object()\n    #     success_url = request.GET.get('next',self.success_url)\n    #     self.object.delete()\n    #     return HttpResponseRedirect(success_url)\n    # def get_success_url(self):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleUpdateView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ModuleUpdateView(UpdateView):\n    model = ProjectModule\n    form_class = CreateProjectModuleForm\n    template_name = 'project/project_module_create.html'\n    success_url = '/project/list_project_module/' \nclass ModuleDeleteView(DeleteView):\n    model = ProjectModule\n    def get(self, request, *args, **kwargs):\n        return self.delete(request, *args, **kwargs)\n    success_url = '/project/list_project_module/'  ",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleDeleteView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ModuleDeleteView(DeleteView):\n    model = ProjectModule\n    def get(self, request, *args, **kwargs):\n        return self.delete(request, *args, **kwargs)\n    success_url = '/project/list_project_module/'  \nclass ModuleDetailView(DetailView):\n    model = ProjectModule\n    template_name = 'project/project_task_list.html'\n    context_object_name = 'project_detail'\n    def get(self, request, *args, **kwargs):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleDetailView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ModuleDetailView(DetailView):\n    model = ProjectModule\n    template_name = 'project/project_task_list.html'\n    context_object_name = 'project_detail'\n    def get(self, request, *args, **kwargs):\n        module = ProjectModule.objects.filter(project=self.kwargs['pk'])\n        task = Task.objects.filter(project=self.kwargs['pk'])\n        return render(request, self.template_name, {'project_detail': self.get_object(),'module': module})\n# class TeamDeleteView(DeleteView):\n#     model = ProjectTeam",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProjectTask",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class CreateProjectTask(CreateView):\n    model = Task\n    form_class = CreateProjectTaskForm\n    template_name = 'project/project_task_create.html'\n    success_url = '/project/list_project_task/'\nclass ProjectTaskListByProject(ListView):\n    model = Task\n    template_name = 'project/project_task_list.html'\n    context_object_name = 'project_task_list'\nclass TaskUpdateView(UpdateView):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTaskListByProject",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectTaskListByProject(ListView):\n    model = Task\n    template_name = 'project/project_task_list.html'\n    context_object_name = 'project_task_list'\nclass TaskUpdateView(UpdateView):\n    model = Task\n    form_class = CreateProjectModuleForm\n    template_name = 'project/project_task_create.html'\n    success_url = '/project/list_project_task/' \nclass TaskDeleteView(DeleteView):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskUpdateView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class TaskUpdateView(UpdateView):\n    model = Task\n    form_class = CreateProjectModuleForm\n    template_name = 'project/project_task_create.html'\n    success_url = '/project/list_project_task/' \nclass TaskDeleteView(DeleteView):\n    model = Task\n    def get(self, request, *args, **kwargs):\n        return self.delete(request, *args, **kwargs)\n    success_url = '/project/list_project_task/' ",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskDeleteView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class TaskDeleteView(DeleteView):\n    model = Task\n    def get(self, request, *args, **kwargs):\n        return self.delete(request, *args, **kwargs)\n    success_url = '/project/list_project_task/' \nclass AssignProjectTask(CreateView):\n    form_class = AssignProjectTaskForm\n    template_name = 'project/project_task_assign.html'\n    success_url = '/project/assign_project_task/'\nclass ProjectTaskListView(ListView):",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "AssignProjectTask",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class AssignProjectTask(CreateView):\n    form_class = AssignProjectTaskForm\n    template_name = 'project/project_task_assign.html'\n    success_url = '/project/assign_project_task/'\nclass ProjectTaskListView(ListView):\n    model = UserTask\n    template_name = 'project/project_task_list_assign.html'\n    context_object_name = 'project_task_list_assign'",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTaskListView",
+        "kind": 6,
+        "importPath": "pms.project.views",
+        "description": "pms.project.views",
+        "peekOfCode": "class ProjectTaskListView(ListView):\n    model = UserTask\n    template_name = 'project/project_task_list_assign.html'\n    context_object_name = 'project_task_list_assign'",
+        "detail": "pms.project.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pms.user.migrations.0001_initial",
+        "description": "pms.user.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "pms.user.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UserConfig",
+        "kind": 6,
+        "importPath": "pms.user.apps",
+        "description": "pms.user.apps",
+        "peekOfCode": "class UserConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user'",
+        "detail": "pms.user.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerRegisterForm",
+        "kind": 6,
+        "importPath": "pms.user.forms",
+        "description": "pms.user.forms",
+        "peekOfCode": "class ManagerRegisterForm(UserCreationForm):\n    class Meta(UserCreationForm.Meta):\n        model = User\n        fields = ('username', 'email', 'password1', 'password2')\n        # widgets = {\n        #      'username' : forms.TextInput(attrs={'class':'form-control','placeholder':'UserName'}),\n        #      'email' : forms.EmailInput(attrs={'class':'form-control','placeholder':'Email'}),\n        #      'password1' : forms.PasswordInput(attrs={'class':'form-control','placeholder':'password'}),\n        #      'password2' : forms.PasswordInput(attrs={'class':'password','placeholder':'password'}),\n        #  }",
+        "detail": "pms.user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperRegistrationForm",
+        "kind": 6,
+        "importPath": "pms.user.forms",
+        "description": "pms.user.forms",
+        "peekOfCode": "class DeveloperRegistrationForm(UserCreationForm):\n    class Meta(UserCreationForm.Meta):\n        model = User\n        fields = ('username', 'email', 'password1', 'password2')\n        # widgets = {\n        #      'username' : forms.TextInput(attrs={'class':'form-control','placeholder':'username'}),\n        #      'email' : forms.EmailInput(attrs={'class':'form-control','placeholder':'email'}),\n        #      'password1' : forms.PasswordInput(attrs={'class':'form-control','placeholder':'password'}),\n        #      'password2' : forms.PasswordInput(attrs={'class':'form-control','placeholder':'reenter password'}),\n        #  }",
+        "detail": "pms.user.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "pms.user.models",
+        "description": "pms.user.models",
+        "peekOfCode": "class User(AbstractUser):\n    is_developer = models.BooleanField(default=False)\n    is_manager1 = models.BooleanField(default=False,null=True)\n    age = models.IntegerField(default=0)\n    salary = models.IntegerField(default=0)\n    class Meta:\n        db_table = 'user'",
+        "detail": "pms.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pms.user.urls",
+        "description": "pms.user.urls",
+        "peekOfCode": "urlpatterns = [\n path('managerregister/',ManagerRegisterView.as_view(),name='managerregister'),\n path('developerregister/',DeveloperRegisterView.as_view(),name='developerregister'),\n path('login/',UserLoginView.as_view(),name='login'),\n path('logout/',UserLogoutView.as_view(),name='logout'),\n path('signup/',SignUpView.as_view(),name='signup'),\n path('dashboard/',views.dashboard,name='dashboard'),\n path('password/',views.password,name='password'),\n path('navbar/',views.navbar,name='navbar'),\n path('manager/dashboard/',ManagerDashboardView.as_view(),name='manager_dashboard'),",
+        "detail": "pms.user.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerRegisterView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class ManagerRegisterView(CreateView):\n    #model = User\n    form_class = ManagerRegisterForm\n    template_name = 'user/manager_register.html'\n    success_url = '/user/manager/dashboard'\n    # def get_context_data(self, **kwargs):\n    #     kwargs['user_type'] = 'manager'\n    #     return super().get_context_data(**kwargs)\n    def form_valid(self, form):\n        #response = super().form_valid(form)",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperRegisterView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class DeveloperRegisterView(CreateView):\n    #model = User\n    form_class = DeveloperRegistrationForm\n    template_name = 'user/developer_register.html'\n    success_url = '/user/dashboard' \n    # def get_context_data(self, **kwargs):\n    #     kwargs['user_type'] = 'developer'\n    #     return super().get_context_data(**kwargs)\n    def form_valid(self, form):\n        #response = super().form_valid(form)",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = 'user/login.html'\n    #success_url = \"/\"\n    def get_redirect_url(self):\n        if self.request.user.is_authenticated:\n            if self.request.user.is_manager1:\n                return '/user/manager/dashboard/'\n            else:\n                return '/user/developer/dashboard/'\n    # def form_valid(self, form):",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogoutView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class UserLogoutView(LogoutView):\n    template_name = \"user/logout.html\"\nclass SignUpForm(forms.Form):\n    CHOICES = (\n        ('manager', 'Manager'),\n        ('developer', 'Developer'),\n    )\n    account_type = forms.ChoiceField(choices=CHOICES, widget=forms.RadioSelect)\nclass SignUpView(FormView):\n    template_name = 'user/signup.html'",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpForm",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class SignUpForm(forms.Form):\n    CHOICES = (\n        ('manager', 'Manager'),\n        ('developer', 'Developer'),\n    )\n    account_type = forms.ChoiceField(choices=CHOICES, widget=forms.RadioSelect)\nclass SignUpView(FormView):\n    template_name = 'user/signup.html'\n    form_class = SignUpForm\n    def form_valid(self, form):",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class SignUpView(FormView):\n    template_name = 'user/signup.html'\n    form_class = SignUpForm\n    def form_valid(self, form):\n        account_type = form.cleaned_data['account_type']\n        if account_type == 'manager':\n            # Redirect to manager registration form\n            return redirect('managerregister')\n        elif account_type == 'developer':\n            # Redirect to developer registration form",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerDashboardView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class ManagerDashboardView(ListView):            \n    def get(self, request, *args, **kwargs):\n        project = Project.objects.all().values()\n        project_count = Project.objects.count()\n        module_count = ProjectModule.objects.count()\n        task_count = Task.objects.count()\n        return render(request, 'user/manager_dashboard.html',{\n            'projects':project,\n            'labels':self.labels,\n            'data':self.data,",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperDashBoardView",
+        "kind": 6,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "class DeveloperDashBoardView(ListView):\n    model = User\n    def get(self, request, *args, **kwargs):\n        completed_task = Task.objects.filter(status=\"Completed\").count()\n        progress_task = Task.objects.filter(status=\"inProgress\").count()\n        pending_task = Task.objects.filter(status=\"Pending\").count()\n        return render(request,'user/developer_dashboard.html',{'completed_task':completed_task,'progress_task':progress_task,'pending_task':pending_task,})\n    def get_queryset(self):\n        return super().get_queryset()\n    template_name = 'user/developer_dashboard.html'",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "def dashboard(request):\n    return render(request,'user/dashboard.html')\ndef password(request):\n    return render(request,'user/password.html')\ndef navbar(request):\n    return render(request,'user/navbar.html')",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 2,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "def password(request):\n    return render(request,'user/password.html')\ndef navbar(request):\n    return render(request,'user/navbar.html')",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "navbar",
+        "kind": 2,
+        "importPath": "pms.user.views",
+        "description": "pms.user.views",
+        "peekOfCode": "def navbar(request):\n    return render(request,'user/navbar.html')",
+        "detail": "pms.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pms.manage",
+        "description": "pms.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pms.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "pms.manage",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    }
+]

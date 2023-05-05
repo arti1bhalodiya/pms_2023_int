@@ -1,0 +1,139 @@
+{% extends './base.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+<style>
+  #toaster {
+    z-index: 1051;
+    position: fixed;
+    top: 25px;
+    right: 10px;
+    background-color: #333333dd;
+    color: #fff;
+    display: none;
+  }
+ 
+</style>
+<body>
+  <script>
+    function showToaster(message) {
+      var toaster = document.getElementById("toaster");
+      var toastercontent = document.getElementById("toastercontent1");
+      toastercontent.innerHTML = message;
+      toaster.style.display = "block";
+      setTimeout(function () {
+        toaster.style.display = "none";
+      }, 3000); // hide after 5 seconds
+    }
+  </script>
+
+  
+  
+
+  <script type="text/javascript">
+    function DeleteData(id) {
+      if (confirm("Are you sure you want to delete?")) {
+        $.ajax({
+          type: "GET",
+          url: "/project/delete_user_task/" + id,
+          success: function (data) {
+            console.log(data);
+
+            //alert("Deleted successfully");
+            showToaster("Your Team Member has been deleted successfully.");
+            setTimeout(() => {
+            location.reload();
+             }, 3000);
+          },
+          error: function (data) {
+            showToaster("Your Team Member has been deleted successfully.");
+            setTimeout(() => {
+            location.reload();
+             }, 3000);
+          },
+        });
+      }
+    }
+  </script>
+  
+  <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" id="toaster">
+    <div class="toast-header">
+      <strong class="me-auto">Project Management System</strong>
+    </div>
+    <div class="toast-body" id="toastercontent1">
+      
+    </div>
+  </div>
+
+  <div class="page-header mt-2">
+    <div class="row row-deck">
+      <div class="col-md-6">
+        <h3 class="page-title">Assigned Project Tasks</h3>
+      </div>
+      <div class="col-md-6">
+        <div class="page-right">
+          <div>
+            {% comment %} <a href="{% url 'assign_task' %}" class="btn btn btn-primary" style="float: right;">Assign Tasks</a> {% endcomment %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-12 mt-3">
+    <div class="card">
+      <div class="card-body">
+        <div class="table-responsive text-nowrap">
+          <table class="table table-vcenter table hover mb-0">
+
+            <thead>
+              <tr>
+                <th scope="col">User</th>
+                <th scope="col">Task</th>
+                <th scope="col">Action</th>
+                {% comment %} <th scope="col">Description</th>
+                <th scope="col">Estimated Hours</th>
+                <th scope="col">Actions</th> {% endcomment %}
+              </tr>
+            </thead>
+            <tbody class="table-border-bottom-0">
+
+              {% for project in project_task_list_assign %}
+              <tr>
+                <td class="align-middle">
+                  {% comment %} <i class="fas fa-angle-right fa-lg me-3"></i> {% endcomment %}
+
+                  <strong>{{project.user}}</strong>
+                </td>
+                <td class="align-middle">{{project.taskid}}</td>
+                <td>
+                  <button
+                  onclick="DeleteData({{project.id}})"
+                  class="dropdown-item"
+            >
+              <i class="bx bx-trash me-1 text-danger"></i>Remove
+            </button>
+                </td>
+              
+              </tr>
+
+
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+      {% endblock content %}
+</body>
+
+</html>
